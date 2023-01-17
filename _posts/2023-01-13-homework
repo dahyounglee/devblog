@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Tutorial for GamePlay: CUBE"
+date:   2023-01-15 23:00:10 -0500
+categories: research
+---
+
+## Objective
+
+---
+
+The objective of this following article is to allow players to know the way to solve a simple game by understanding each operation of the step. Each steps will be shown throughout the article.
+
+The game is called: CUBE from Simon Tatham's Portable Puzzle Collection
+
+[paper](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/cube.html)
