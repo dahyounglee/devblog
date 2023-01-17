@@ -24,3 +24,21 @@ The game is called: CUBE from Simon Tatham's Portable Puzzle Collection
 Figure 1. Example initial position
 
 As shown in figure 1, the game starts with grid of 16 squares, with 6 blue squares and 1 cube of a square. The objective of this game is to get all 6 blue squares on 6 faces of the cube at the same time.
+
+---
+
+## Placing a color
+
+There are 2 ways to control the cube: keyboard and the mouse.
+
+1. Keyboard
+You can use arrow keys on the keyboard to roll the cube on the square grid. By using the arrow keys, you can roll the cube in four directions: up, down, left, right.
+
+2. Mouse
+You can use the mouse to roll the cube on the square grid. By cliking the left part of the mouse, you can move the cube towards the mouse pointer.
+
+---
+
+## Things to know
+
+When you roll the cube on to a blue square, the face of the cube picks up the blue part on it; when you roll the cube on to a gray square, the blue face on the cube will be dropped.
