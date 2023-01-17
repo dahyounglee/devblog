@@ -23,3 +23,4 @@ The game is called: CUBE from Simon Tatham's Portable Puzzle Collection
 
 Figure 1. Example initial position
 
+As shown in figure 1, the game starts with grid of 16 squares, with 6 blue squares and 1 cube of a square. The objective of this game is to get all 6 blue squares on 6 faces of the cube at the same time.
